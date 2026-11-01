@@ -1,0 +1,8 @@
+{
+  "feasible": false,
+  "unreachable": [
+    "Hospital"
+  ],
+  "results": [],
+  "preprocessing_ms": 0.03558300159056671
+}

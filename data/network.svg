@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="740" viewBox="0 0 840 740">
+<rect width="840" height="740" fill="#f4f6f1"/>
+<g font-family="Arial,sans-serif"><text x="30" y="35" font-size="23" fill="#24483e">Relief Route — road network</text><text x="30" y="61" font-size="12">Schematic only • distances in km • dashed red = blocked road</text>
+<line x1="420.0" y1="90.0" x2="638.9128150910483" y2="187.8926515167293" stroke="#bc5148" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="529.4564075455241" y="138.94632575836465" font-size="11" fill="#334a41" paint-order="stroke" stroke="#f4f6f1" stroke-width="4">5</text>
+<line x1="420.0" y1="90.0" x2="201.08718490895163" y2="187.89265151672933" stroke="#b0bdb3" stroke-width="2"/>
+<text x="310.5435924544758" y="138.94632575836465" font-size="11" fill="#334a41" paint-order="stroke" stroke="#f4f6f1" stroke-width="4">3</text>
+<line x1="201.08718490895163" y1="187.89265151672933" x2="541.4874469529163" y2="584.251905654629" stroke="#b0bdb3" stroke-width="2"/>
+<text x="371.28731593093397" y="386.07227858567916" font-size="11" fill="#334a41" paint-order="stroke" stroke="#f4f6f1" stroke-width="4">4</text>
+<line x1="638.9128150910483" y1="187.8926515167293" x2="692.9798154109105" y2="407.85544282864174" stroke="#b0bdb3" stroke-width="2"/>
+<text x="665.9463152509794" y="297.87404717268555" font-size="11" fill="#334a41" paint-order="stroke" stroke="#f4f6f1" stroke-width="4">4</text>
+<line x1="692.9798154109105" y1="407.85544282864174" x2="541.4874469529163" y2="584.251905654629" stroke="#b0bdb3" stroke-width="2"/>
+<text x="617.2336311819134" y="496.05367424163535" font-size="11" fill="#334a41" paint-order="stroke" stroke="#f4f6f1" stroke-width="4">3</text>
+<line x1="541.4874469529163" y1="584.251905654629" x2="298.51255304708377" y2="584.251905654629" stroke="#b0bdb3" stroke-width="2"/>
+<text x="420.00000000000006" y="584.251905654629" font-size="11" fill="#334a41" paint-order="stroke" stroke="#f4f6f1" stroke-width="4">5</text>
+<line x1="298.51255304708377" y1="584.251905654629" x2="147.0201845890894" y2="407.8554428286418" stroke="#b0bdb3" stroke-width="2"/>
+<text x="222.7663688180866" y="496.0536742416354" font-size="11" fill="#334a41" paint-order="stroke" stroke="#f4f6f1" stroke-width="4">4</text>
+<line x1="147.0201845890894" y1="407.8554428286418" x2="420.0" y2="90.0" stroke="#b0bdb3" stroke-width="2"/>
+<text x="283.51009229454473" y="248.9277214143209" font-size="11" fill="#334a41" paint-order="stroke" stroke="#f4f6f1" stroke-width="4">7</text>
+<line x1="201.08718490895163" y1="187.89265151672933" x2="298.51255304708377" y2="584.251905654629" stroke="#b0bdb3" stroke-width="2"/>
+<text x="249.79986897801768" y="386.07227858567916" font-size="11" fill="#334a41" paint-order="stroke" stroke="#f4f6f1" stroke-width="4">6</text>
+<line x1="638.9128150910483" y1="187.8926515167293" x2="147.0201845890894" y2="407.8554428286418" stroke="#b0bdb3" stroke-width="2"/>
+<text x="392.9664998400689" y="297.87404717268555" font-size="11" fill="#334a41" paint-order="stroke" stroke="#f4f6f1" stroke-width="4">8</text>
+<line x1="692.9798154109105" y1="407.85544282864174" x2="298.51255304708377" y2="584.251905654629" stroke="#b0bdb3" stroke-width="2"/>
+<text x="495.74618422899715" y="496.05367424163535" font-size="11" fill="#334a41" paint-order="stroke" stroke="#f4f6f1" stroke-width="4">7</text>
+<circle cx="420.0" cy="90.0" r="17" fill="#d48536"/><text x="420.0" y="124.0" text-anchor="middle" font-size="13" fill="#153b2f" paint-order="stroke" stroke="#f4f6f1" stroke-width="3">Depot</text>
+<circle cx="638.9128150910483" cy="187.8926515167293" r="17" fill="#245a47"/><text x="638.9128150910483" y="221.8926515167293" text-anchor="middle" font-size="13" fill="#153b2f" paint-order="stroke" stroke="#f4f6f1" stroke-width="3">Hospital</text>
+<circle cx="692.9798154109105" cy="407.85544282864174" r="17" fill="#245a47"/><text x="692.9798154109105" y="441.85544282864174" text-anchor="middle" font-size="13" fill="#153b2f" paint-order="stroke" stroke="#f4f6f1" stroke-width="3">Shelter</text>
+<circle cx="541.4874469529163" cy="584.251905654629" r="17" fill="#245a47"/><text x="541.4874469529163" y="618.251905654629" text-anchor="middle" font-size="13" fill="#153b2f" paint-order="stroke" stroke="#f4f6f1" stroke-width="3">School</text>
+<circle cx="298.51255304708377" cy="584.251905654629" r="17" fill="#245a47"/><text x="298.51255304708377" y="618.251905654629" text-anchor="middle" font-size="13" fill="#153b2f" paint-order="stroke" stroke="#f4f6f1" stroke-width="3">Clinic</text>
+<circle cx="147.0201845890894" cy="407.8554428286418" r="17" fill="#245a47"/><text x="147.0201845890894" y="441.8554428286418" text-anchor="middle" font-size="13" fill="#153b2f" paint-order="stroke" stroke="#f4f6f1" stroke-width="3">Warehouse</text>
+<circle cx="201.08718490895163" cy="187.89265151672933" r="17" fill="#78857d"/><text x="201.08718490895163" y="221.89265151672933" text-anchor="middle" font-size="13" fill="#153b2f" paint-order="stroke" stroke="#f4f6f1" stroke-width="3">Junction</text>
+<text x="30" y="716" font-size="12">Orange: depot • Green: delivery • Grey: transit node • Synthetic study, not operational guidance</text></g></svg>

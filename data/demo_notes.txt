@@ -1,0 +1,4 @@
+Saved comparison scenario: seed 0
+nn: 519.56 km
+2opt: 451.48 km
+bnb: 451.48 km

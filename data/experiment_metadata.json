@@ -1,0 +1,20 @@
+{
+  "timestamp_utc": "2026-10-27T17:12:30.241811+00:00",
+  "python": "3.14.5",
+  "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "processor": "arm",
+  "instances": 45,
+  "repetitions": 3,
+  "bnb_limit_seconds": 0.2,
+  "seed_rule": "3130 + seed_index + 100 * delivery_count",
+  "counts": [
+    5,
+    7,
+    9
+  ],
+  "blockages": [
+    0,
+    0.15,
+    0.3
+  ]
+}

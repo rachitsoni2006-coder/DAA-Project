@@ -1,0 +1,88 @@
+{
+  "name": "Illustrative emergency network (synthetic)",
+  "nodes": [
+    "Depot",
+    "Hospital",
+    "Shelter",
+    "School",
+    "Clinic",
+    "Warehouse",
+    "Junction"
+  ],
+  "depot": "Depot",
+  "deliveries": [
+    "Hospital",
+    "Shelter",
+    "School",
+    "Clinic",
+    "Warehouse"
+  ],
+  "roads": [
+    {
+      "u": "Depot",
+      "v": "Hospital",
+      "distance": 5,
+      "blocked": true
+    },
+    {
+      "u": "Depot",
+      "v": "Junction",
+      "distance": 3,
+      "blocked": false
+    },
+    {
+      "u": "Junction",
+      "v": "School",
+      "distance": 4,
+      "blocked": false
+    },
+    {
+      "u": "Hospital",
+      "v": "Shelter",
+      "distance": 4,
+      "blocked": true
+    },
+    {
+      "u": "Shelter",
+      "v": "School",
+      "distance": 3,
+      "blocked": false
+    },
+    {
+      "u": "School",
+      "v": "Clinic",
+      "distance": 5,
+      "blocked": false
+    },
+    {
+      "u": "Clinic",
+      "v": "Warehouse",
+      "distance": 4,
+      "blocked": false
+    },
+    {
+      "u": "Warehouse",
+      "v": "Depot",
+      "distance": 7,
+      "blocked": false
+    },
+    {
+      "u": "Junction",
+      "v": "Clinic",
+      "distance": 6,
+      "blocked": false
+    },
+    {
+      "u": "Hospital",
+      "v": "Warehouse",
+      "distance": 8,
+      "blocked": true
+    },
+    {
+      "u": "Shelter",
+      "v": "Clinic",
+      "distance": 7,
+      "blocked": false
+    }
+  ]
+}

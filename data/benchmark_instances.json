@@ -1,0 +1,6491 @@
+[
+  {
+    "name": "Synthetic n=5, seed=3630, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 11.62,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 7.53,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 57.67,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 26.81,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 36.45,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 17.98,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 55.08,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        65.66823323568151,
+        68.20264867897887
+      ],
+      "L1": [
+        71.55760468605466,
+        58.191475549526054
+      ],
+      "L2": [
+        55.07904752274197,
+        37.03829310245015
+      ],
+      "L3": [
+        86.93748512111378,
+        54.756975439453356
+      ],
+      "L4": [
+        72.84745856401952,
+        65.92916576875086
+      ],
+      "L5": [
+        71.80294664826144,
+        10.855144387999772
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3630, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 11.62,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 7.53,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 57.67,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 26.81,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 36.45,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 17.98,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 55.08,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        65.66823323568151,
+        68.20264867897887
+      ],
+      "L1": [
+        71.55760468605466,
+        58.191475549526054
+      ],
+      "L2": [
+        55.07904752274197,
+        37.03829310245015
+      ],
+      "L3": [
+        86.93748512111378,
+        54.756975439453356
+      ],
+      "L4": [
+        72.84745856401952,
+        65.92916576875086
+      ],
+      "L5": [
+        71.80294664826144,
+        10.855144387999772
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3630, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 11.62,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 7.53,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 57.67,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 26.81,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 36.45,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 17.98,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 55.08,
+        "blocked": true
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        65.66823323568151,
+        68.20264867897887
+      ],
+      "L1": [
+        71.55760468605466,
+        58.191475549526054
+      ],
+      "L2": [
+        55.07904752274197,
+        37.03829310245015
+      ],
+      "L3": [
+        86.93748512111378,
+        54.756975439453356
+      ],
+      "L4": [
+        72.84745856401952,
+        65.92916576875086
+      ],
+      "L5": [
+        71.80294664826144,
+        10.855144387999772
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3631, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 57.17,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L2",
+        "distance": 47.64,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 70.06,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 61.16,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 14.11,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 47.6,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 33.27,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 53.51,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        84.30310502130573,
+        90.45649623399214
+      ],
+      "L1": [
+        31.776110175139415,
+        67.89605217652503
+      ],
+      "L2": [
+        87.61355725770609,
+        42.93359672313396
+      ],
+      "L3": [
+        42.721268020843674,
+        27.10675333509912
+      ],
+      "L4": [
+        19.084941704102054,
+        3.6958121046484993
+      ],
+      "L5": [
+        22.699065077474977,
+        57.08824325756683
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3631, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 57.17,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L2",
+        "distance": 47.64,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 70.06,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 61.16,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 14.11,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 47.6,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 33.27,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 53.51,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        84.30310502130573,
+        90.45649623399214
+      ],
+      "L1": [
+        31.776110175139415,
+        67.89605217652503
+      ],
+      "L2": [
+        87.61355725770609,
+        42.93359672313396
+      ],
+      "L3": [
+        42.721268020843674,
+        27.10675333509912
+      ],
+      "L4": [
+        19.084941704102054,
+        3.6958121046484993
+      ],
+      "L5": [
+        22.699065077474977,
+        57.08824325756683
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3631, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 57.17,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L2",
+        "distance": 47.64,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 70.06,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 61.16,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 14.11,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 47.6,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 33.27,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 53.51,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        84.30310502130573,
+        90.45649623399214
+      ],
+      "L1": [
+        31.776110175139415,
+        67.89605217652503
+      ],
+      "L2": [
+        87.61355725770609,
+        42.93359672313396
+      ],
+      "L3": [
+        42.721268020843674,
+        27.10675333509912
+      ],
+      "L4": [
+        19.084941704102054,
+        3.6958121046484993
+      ],
+      "L5": [
+        22.699065077474977,
+        57.08824325756683
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3632, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 15.93,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L2",
+        "distance": 78.49,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 80.97,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 26.36,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 94.41,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 22.94,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 85.73,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 93.53,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 88.37,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 95.62,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        28.389966083765074,
+        28.470018445689504
+      ],
+      "L1": [
+        19.61536674465435,
+        15.169384253066443
+      ],
+      "L2": [
+        74.99807020991712,
+        91.62726738263241
+      ],
+      "L3": [
+        14.335973630137067,
+        31.04710628068498
+      ],
+      "L4": [
+        77.50514989144996,
+        92.84644500570411
+      ],
+      "L5": [
+        40.10118447271221,
+        4.85107566407258
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3632, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 15.93,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L2",
+        "distance": 78.49,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 80.97,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 26.36,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 94.41,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 22.94,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 85.73,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 93.53,
+        "blocked": true
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 88.37,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 95.62,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        28.389966083765074,
+        28.470018445689504
+      ],
+      "L1": [
+        19.61536674465435,
+        15.169384253066443
+      ],
+      "L2": [
+        74.99807020991712,
+        91.62726738263241
+      ],
+      "L3": [
+        14.335973630137067,
+        31.04710628068498
+      ],
+      "L4": [
+        77.50514989144996,
+        92.84644500570411
+      ],
+      "L5": [
+        40.10118447271221,
+        4.85107566407258
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3632, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 15.93,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L2",
+        "distance": 78.49,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 80.97,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 26.36,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 94.41,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 22.94,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 85.73,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 93.53,
+        "blocked": true
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 88.37,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 95.62,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        28.389966083765074,
+        28.470018445689504
+      ],
+      "L1": [
+        19.61536674465435,
+        15.169384253066443
+      ],
+      "L2": [
+        74.99807020991712,
+        91.62726738263241
+      ],
+      "L3": [
+        14.335973630137067,
+        31.04710628068498
+      ],
+      "L4": [
+        77.50514989144996,
+        92.84644500570411
+      ],
+      "L5": [
+        40.10118447271221,
+        4.85107566407258
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3633, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 34.54,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 21.84,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 44.73,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 38.4,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 58.29,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 25.03,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L5",
+        "distance": 47.04,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 52.97,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        28.08410156355743,
+        86.4398998362401
+      ],
+      "L1": [
+        44.181065946943306,
+        55.88533097782711
+      ],
+      "L2": [
+        42.48583526988777,
+        11.190878580969343
+      ],
+      "L3": [
+        60.53192802549617,
+        45.088116666984526
+      ],
+      "L4": [
+        84.77259554091009,
+        51.31362508948192
+      ],
+      "L5": [
+        49.483367675895906,
+        90.81573566948255
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3633, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 34.54,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 21.84,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 44.73,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 38.4,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 58.29,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 25.03,
+        "blocked": true
+      },
+      {
+        "u": "L3",
+        "v": "L5",
+        "distance": 47.04,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 52.97,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        28.08410156355743,
+        86.4398998362401
+      ],
+      "L1": [
+        44.181065946943306,
+        55.88533097782711
+      ],
+      "L2": [
+        42.48583526988777,
+        11.190878580969343
+      ],
+      "L3": [
+        60.53192802549617,
+        45.088116666984526
+      ],
+      "L4": [
+        84.77259554091009,
+        51.31362508948192
+      ],
+      "L5": [
+        49.483367675895906,
+        90.81573566948255
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3633, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 34.54,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 21.84,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 44.73,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 38.4,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 58.29,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 25.03,
+        "blocked": true
+      },
+      {
+        "u": "L3",
+        "v": "L5",
+        "distance": 47.04,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 52.97,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        28.08410156355743,
+        86.4398998362401
+      ],
+      "L1": [
+        44.181065946943306,
+        55.88533097782711
+      ],
+      "L2": [
+        42.48583526988777,
+        11.190878580969343
+      ],
+      "L3": [
+        60.53192802549617,
+        45.088116666984526
+      ],
+      "L4": [
+        84.77259554091009,
+        51.31362508948192
+      ],
+      "L5": [
+        49.483367675895906,
+        90.81573566948255
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3634, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 62.27,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 66.75,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 67.95,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 49.84,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 7.76,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 70.17,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 103.78,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 64.78,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 72.94,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 57.57,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        27.489268761294262,
+        26.20553935066672
+      ],
+      "L1": [
+        73.79253995948241,
+        67.83552611699992
+      ],
+      "L2": [
+        87.43443468893446,
+        1.2650863785201194
+      ],
+      "L3": [
+        98.6361426402546,
+        70.53524447655698
+      ],
+      "L4": [
+        27.329237750886158,
+        85.87330337218013
+      ],
+      "L5": [
+        81.26411862503308,
+        65.75153984470255
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3634, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 62.27,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 66.75,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 67.95,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 49.84,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 7.76,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 70.17,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 103.78,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 64.78,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 72.94,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 57.57,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        27.489268761294262,
+        26.20553935066672
+      ],
+      "L1": [
+        73.79253995948241,
+        67.83552611699992
+      ],
+      "L2": [
+        87.43443468893446,
+        1.2650863785201194
+      ],
+      "L3": [
+        98.6361426402546,
+        70.53524447655698
+      ],
+      "L4": [
+        27.329237750886158,
+        85.87330337218013
+      ],
+      "L5": [
+        81.26411862503308,
+        65.75153984470255
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=5, seed=3634, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 62.27,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 66.75,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 67.95,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 49.84,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 7.76,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 70.17,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 103.78,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 64.78,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 72.94,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 57.57,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        27.489268761294262,
+        26.20553935066672
+      ],
+      "L1": [
+        73.79253995948241,
+        67.83552611699992
+      ],
+      "L2": [
+        87.43443468893446,
+        1.2650863785201194
+      ],
+      "L3": [
+        98.6361426402546,
+        70.53524447655698
+      ],
+      "L4": [
+        27.329237750886158,
+        85.87330337218013
+      ],
+      "L5": [
+        81.26411862503308,
+        65.75153984470255
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3830, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 19.01,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L6",
+        "distance": 94.69,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 82.3,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 54.25,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 60.42,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 70.37,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L5",
+        "distance": 81.47,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L6",
+        "distance": 97.64,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L7",
+        "distance": 84.56,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 45.04,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 27.58,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 13.07,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        50.75374746795769,
+        90.67015706552573
+      ],
+      "L1": [
+        55.68969992020209,
+        72.31028513502959
+      ],
+      "L2": [
+        44.268239539707864,
+        19.273885848780647
+      ],
+      "L3": [
+        24.911437521948145,
+        76.50991764007026
+      ],
+      "L4": [
+        87.21201757036324,
+        43.7827818148006
+      ],
+      "L5": [
+        64.12657876278487,
+        5.103659218568312
+      ],
+      "L6": [
+        91.71020867175314,
+        5.298983715203853
+      ],
+      "L7": [
+        82.80358671771688,
+        14.871018870298103
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3830, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 19.01,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L6",
+        "distance": 94.69,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 82.3,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 54.25,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 60.42,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 70.37,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L5",
+        "distance": 81.47,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L6",
+        "distance": 97.64,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L7",
+        "distance": 84.56,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 45.04,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 27.58,
+        "blocked": true
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 13.07,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        50.75374746795769,
+        90.67015706552573
+      ],
+      "L1": [
+        55.68969992020209,
+        72.31028513502959
+      ],
+      "L2": [
+        44.268239539707864,
+        19.273885848780647
+      ],
+      "L3": [
+        24.911437521948145,
+        76.50991764007026
+      ],
+      "L4": [
+        87.21201757036324,
+        43.7827818148006
+      ],
+      "L5": [
+        64.12657876278487,
+        5.103659218568312
+      ],
+      "L6": [
+        91.71020867175314,
+        5.298983715203853
+      ],
+      "L7": [
+        82.80358671771688,
+        14.871018870298103
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3830, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 19.01,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L6",
+        "distance": 94.69,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 82.3,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 54.25,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 60.42,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 70.37,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L5",
+        "distance": 81.47,
+        "blocked": true
+      },
+      {
+        "u": "L3",
+        "v": "L6",
+        "distance": 97.64,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L7",
+        "distance": 84.56,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 45.04,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 27.58,
+        "blocked": true
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 13.07,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        50.75374746795769,
+        90.67015706552573
+      ],
+      "L1": [
+        55.68969992020209,
+        72.31028513502959
+      ],
+      "L2": [
+        44.268239539707864,
+        19.273885848780647
+      ],
+      "L3": [
+        24.911437521948145,
+        76.50991764007026
+      ],
+      "L4": [
+        87.21201757036324,
+        43.7827818148006
+      ],
+      "L5": [
+        64.12657876278487,
+        5.103659218568312
+      ],
+      "L6": [
+        91.71020867175314,
+        5.298983715203853
+      ],
+      "L7": [
+        82.80358671771688,
+        14.871018870298103
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3831, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 58.63,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 40.08,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 78.56,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 22.4,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L3",
+        "distance": 23.96,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L7",
+        "distance": 33.4,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 46.05,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 42.64,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 75.93,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 3.74,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 36.24,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 53.24,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 62.9,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        16.255764006796415,
+        23.749346548208415
+      ],
+      "L1": [
+        17.21888657802846,
+        82.36950662210076
+      ],
+      "L2": [
+        3.099348067798058,
+        99.75686598167599
+      ],
+      "L3": [
+        27.705148273915604,
+        60.82807363823384
+      ],
+      "L4": [
+        24.62687554250077,
+        62.95047081251237
+      ],
+      "L5": [
+        56.58235410307766,
+        45.857628688798066
+      ],
+      "L6": [
+        3.5885619274121705,
+        50.98554350687273
+      ],
+      "L7": [
+        47.85751761919512,
+        95.66822589643347
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3831, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 58.63,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 40.08,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 78.56,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 22.4,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L3",
+        "distance": 23.96,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L7",
+        "distance": 33.4,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 46.05,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 42.64,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 75.93,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 3.74,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 36.24,
+        "blocked": true
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 53.24,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 62.9,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        16.255764006796415,
+        23.749346548208415
+      ],
+      "L1": [
+        17.21888657802846,
+        82.36950662210076
+      ],
+      "L2": [
+        3.099348067798058,
+        99.75686598167599
+      ],
+      "L3": [
+        27.705148273915604,
+        60.82807363823384
+      ],
+      "L4": [
+        24.62687554250077,
+        62.95047081251237
+      ],
+      "L5": [
+        56.58235410307766,
+        45.857628688798066
+      ],
+      "L6": [
+        3.5885619274121705,
+        50.98554350687273
+      ],
+      "L7": [
+        47.85751761919512,
+        95.66822589643347
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3831, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 58.63,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 40.08,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 78.56,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 22.4,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L3",
+        "distance": 23.96,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L7",
+        "distance": 33.4,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 46.05,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 42.64,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 75.93,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 3.74,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 36.24,
+        "blocked": true
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 53.24,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 62.9,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        16.255764006796415,
+        23.749346548208415
+      ],
+      "L1": [
+        17.21888657802846,
+        82.36950662210076
+      ],
+      "L2": [
+        3.099348067798058,
+        99.75686598167599
+      ],
+      "L3": [
+        27.705148273915604,
+        60.82807363823384
+      ],
+      "L4": [
+        24.62687554250077,
+        62.95047081251237
+      ],
+      "L5": [
+        56.58235410307766,
+        45.857628688798066
+      ],
+      "L6": [
+        3.5885619274121705,
+        50.98554350687273
+      ],
+      "L7": [
+        47.85751761919512,
+        95.66822589643347
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3832, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 44.46,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L3",
+        "distance": 31.04,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 9.76,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 61.34,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 21.15,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 52.69,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L6",
+        "distance": 12.17,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L7",
+        "distance": 34.78,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 29.4,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 39.32,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L6",
+        "distance": 45.63,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 73.18,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L7",
+        "distance": 23.99,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 59.13,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 42.65,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        56.305116066110514,
+        11.189452259635846
+      ],
+      "L1": [
+        54.0191567778936,
+        55.59023564227267
+      ],
+      "L2": [
+        88.99044135095431,
+        5.191087922781956
+      ],
+      "L3": [
+        78.66595753531786,
+        32.717119338330605
+      ],
+      "L4": [
+        39.98156553332869,
+        39.772855996715215
+      ],
+      "L5": [
+        98.91842929040814,
+        83.15776162207598
+      ],
+      "L6": [
+        43.69298725351962,
+        62.02719229252758
+      ],
+      "L7": [
+        54.680034070615456,
+        20.816129897164938
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3832, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 44.46,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L3",
+        "distance": 31.04,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 9.76,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 61.34,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 21.15,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 52.69,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L6",
+        "distance": 12.17,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L7",
+        "distance": 34.78,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 29.4,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 39.32,
+        "blocked": true
+      },
+      {
+        "u": "L3",
+        "v": "L6",
+        "distance": 45.63,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 73.18,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L7",
+        "distance": 23.99,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 59.13,
+        "blocked": true
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 42.65,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        56.305116066110514,
+        11.189452259635846
+      ],
+      "L1": [
+        54.0191567778936,
+        55.59023564227267
+      ],
+      "L2": [
+        88.99044135095431,
+        5.191087922781956
+      ],
+      "L3": [
+        78.66595753531786,
+        32.717119338330605
+      ],
+      "L4": [
+        39.98156553332869,
+        39.772855996715215
+      ],
+      "L5": [
+        98.91842929040814,
+        83.15776162207598
+      ],
+      "L6": [
+        43.69298725351962,
+        62.02719229252758
+      ],
+      "L7": [
+        54.680034070615456,
+        20.816129897164938
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3832, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 44.46,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L3",
+        "distance": 31.04,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 9.76,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 61.34,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 21.15,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 52.69,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L6",
+        "distance": 12.17,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L7",
+        "distance": 34.78,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 29.4,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 39.32,
+        "blocked": true
+      },
+      {
+        "u": "L3",
+        "v": "L6",
+        "distance": 45.63,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 73.18,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L7",
+        "distance": 23.99,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 59.13,
+        "blocked": true
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 42.65,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        56.305116066110514,
+        11.189452259635846
+      ],
+      "L1": [
+        54.0191567778936,
+        55.59023564227267
+      ],
+      "L2": [
+        88.99044135095431,
+        5.191087922781956
+      ],
+      "L3": [
+        78.66595753531786,
+        32.717119338330605
+      ],
+      "L4": [
+        39.98156553332869,
+        39.772855996715215
+      ],
+      "L5": [
+        98.91842929040814,
+        83.15776162207598
+      ],
+      "L6": [
+        43.69298725351962,
+        62.02719229252758
+      ],
+      "L7": [
+        54.680034070615456,
+        20.816129897164938
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3833, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 31.98,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 52.42,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 75.18,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 69.46,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L3",
+        "distance": 27.25,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 80.65,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 101.31,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 55.26,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L5",
+        "distance": 48.51,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 79.33,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L7",
+        "distance": 47.68,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 21.39,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 66.78,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        77.22173410399245,
+        62.80067679889485
+      ],
+      "L1": [
+        45.25653041569735,
+        63.78164334513008
+      ],
+      "L2": [
+        89.66068642857906,
+        10.362930172274265
+      ],
+      "L3": [
+        20.643697639191593,
+        52.098218963955055
+      ],
+      "L4": [
+        68.34313307055017,
+        24.193830291859243
+      ],
+      "L5": [
+        37.87708747570024,
+        97.44026038542918
+      ],
+      "L6": [
+        29.635351062626548,
+        77.70114960022859
+      ],
+      "L7": [
+        22.44291483332749,
+        11.306413838101381
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3833, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 31.98,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 52.42,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 75.18,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 69.46,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L3",
+        "distance": 27.25,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 80.65,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 101.31,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 55.26,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L5",
+        "distance": 48.51,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 79.33,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L7",
+        "distance": 47.68,
+        "blocked": true
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 21.39,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 66.78,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        77.22173410399245,
+        62.80067679889485
+      ],
+      "L1": [
+        45.25653041569735,
+        63.78164334513008
+      ],
+      "L2": [
+        89.66068642857906,
+        10.362930172274265
+      ],
+      "L3": [
+        20.643697639191593,
+        52.098218963955055
+      ],
+      "L4": [
+        68.34313307055017,
+        24.193830291859243
+      ],
+      "L5": [
+        37.87708747570024,
+        97.44026038542918
+      ],
+      "L6": [
+        29.635351062626548,
+        77.70114960022859
+      ],
+      "L7": [
+        22.44291483332749,
+        11.306413838101381
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3833, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 31.98,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 52.42,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 75.18,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 69.46,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L3",
+        "distance": 27.25,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 80.65,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 101.31,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 55.26,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L5",
+        "distance": 48.51,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 79.33,
+        "blocked": true
+      },
+      {
+        "u": "L4",
+        "v": "L7",
+        "distance": 47.68,
+        "blocked": true
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 21.39,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 66.78,
+        "blocked": true
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        77.22173410399245,
+        62.80067679889485
+      ],
+      "L1": [
+        45.25653041569735,
+        63.78164334513008
+      ],
+      "L2": [
+        89.66068642857906,
+        10.362930172274265
+      ],
+      "L3": [
+        20.643697639191593,
+        52.098218963955055
+      ],
+      "L4": [
+        68.34313307055017,
+        24.193830291859243
+      ],
+      "L5": [
+        37.87708747570024,
+        97.44026038542918
+      ],
+      "L6": [
+        29.635351062626548,
+        77.70114960022859
+      ],
+      "L7": [
+        22.44291483332749,
+        11.306413838101381
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3834, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 76.15,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L6",
+        "distance": 90.61,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 27.3,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 89.98,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L7",
+        "distance": 76.86,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 13.94,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 76.91,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L7",
+        "distance": 46.42,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 45.8,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 52.25,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L6",
+        "distance": 52.84,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L7",
+        "distance": 43.72,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 92.31,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L7",
+        "distance": 32.51,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 65.32,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        6.883708700250779,
+        11.003356612067316
+      ],
+      "L1": [
+        82.67872795894608,
+        3.6325758919377726
+      ],
+      "L2": [
+        33.87768429962,
+        79.23072530152207
+      ],
+      "L3": [
+        47.81348926871453,
+        79.02202136551358
+      ],
+      "L4": [
+        57.25252534664209,
+        34.20458805019288
+      ],
+      "L5": [
+        13.963439660109067,
+        4.941004823743455
+      ],
+      "L6": [
+        56.168081587415585,
+        87.03763203612857
+      ],
+      "L7": [
+        13.656390776879102,
+        37.45027995108474
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3834, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 76.15,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L6",
+        "distance": 90.61,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 27.3,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 89.98,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L7",
+        "distance": 76.86,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 13.94,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 76.91,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L7",
+        "distance": 46.42,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 45.8,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 52.25,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L6",
+        "distance": 52.84,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L7",
+        "distance": 43.72,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 92.31,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L7",
+        "distance": 32.51,
+        "blocked": true
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 65.32,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        6.883708700250779,
+        11.003356612067316
+      ],
+      "L1": [
+        82.67872795894608,
+        3.6325758919377726
+      ],
+      "L2": [
+        33.87768429962,
+        79.23072530152207
+      ],
+      "L3": [
+        47.81348926871453,
+        79.02202136551358
+      ],
+      "L4": [
+        57.25252534664209,
+        34.20458805019288
+      ],
+      "L5": [
+        13.963439660109067,
+        4.941004823743455
+      ],
+      "L6": [
+        56.168081587415585,
+        87.03763203612857
+      ],
+      "L7": [
+        13.656390776879102,
+        37.45027995108474
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=7, seed=3834, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 76.15,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L6",
+        "distance": 90.61,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 27.3,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 89.98,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L7",
+        "distance": 76.86,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 13.94,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 76.91,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L7",
+        "distance": 46.42,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 45.8,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 52.25,
+        "blocked": true
+      },
+      {
+        "u": "L4",
+        "v": "L6",
+        "distance": 52.84,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L7",
+        "distance": 43.72,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 92.31,
+        "blocked": true
+      },
+      {
+        "u": "L5",
+        "v": "L7",
+        "distance": 32.51,
+        "blocked": true
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 65.32,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        6.883708700250779,
+        11.003356612067316
+      ],
+      "L1": [
+        82.67872795894608,
+        3.6325758919377726
+      ],
+      "L2": [
+        33.87768429962,
+        79.23072530152207
+      ],
+      "L3": [
+        47.81348926871453,
+        79.02202136551358
+      ],
+      "L4": [
+        57.25252534664209,
+        34.20458805019288
+      ],
+      "L5": [
+        13.963439660109067,
+        4.941004823743455
+      ],
+      "L6": [
+        56.168081587415585,
+        87.03763203612857
+      ],
+      "L7": [
+        13.656390776879102,
+        37.45027995108474
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4030, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 37.14,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L3",
+        "distance": 37.2,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 43.79,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 95.03,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 30.23,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 28.97,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L3",
+        "distance": 6.57,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 16.02,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L6",
+        "distance": 32.36,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 24.53,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 25.37,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L7",
+        "distance": 70.6,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L8",
+        "distance": 30.04,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 45.1,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 35.48,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L6",
+        "distance": 23.48,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L9",
+        "distance": 91.56,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 16.35,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 40.99,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L8",
+        "distance": 56.19,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 97.13,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L9",
+        "distance": 105.95,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 38.49,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        90.78825030181964,
+        48.941324511235116
+      ],
+      "L1": [
+        71.58013795199871,
+        80.73219128841687
+      ],
+      "L2": [
+        65.71353517791391,
+        52.363158815383514
+      ],
+      "L3": [
+        66.24700436681574,
+        76.89128140587293
+      ],
+      "L4": [
+        21.63488734537561,
+        83.49156771267455
+      ],
+      "L5": [
+        56.298295440883095,
+        75.9219162195582
+      ],
+      "L6": [
+        40.98721117672881,
+        70.18830072968677
+      ],
+      "L7": [
+        1.9478010279035396,
+        82.67219822242595
+      ],
+      "L8": [
+        95.4687486021786,
+        56.45750445704715
+      ],
+      "L9": [
+        86.62615759366533,
+        18.999078819955294
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4030, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 37.14,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L3",
+        "distance": 37.2,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 43.79,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 95.03,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 30.23,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 28.97,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L3",
+        "distance": 6.57,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 16.02,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L6",
+        "distance": 32.36,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 24.53,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 25.37,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L7",
+        "distance": 70.6,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L8",
+        "distance": 30.04,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 45.1,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 35.48,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L6",
+        "distance": 23.48,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L9",
+        "distance": 91.56,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 16.35,
+        "blocked": true
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 40.99,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L8",
+        "distance": 56.19,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 97.13,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L9",
+        "distance": 105.95,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 38.49,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        90.78825030181964,
+        48.941324511235116
+      ],
+      "L1": [
+        71.58013795199871,
+        80.73219128841687
+      ],
+      "L2": [
+        65.71353517791391,
+        52.363158815383514
+      ],
+      "L3": [
+        66.24700436681574,
+        76.89128140587293
+      ],
+      "L4": [
+        21.63488734537561,
+        83.49156771267455
+      ],
+      "L5": [
+        56.298295440883095,
+        75.9219162195582
+      ],
+      "L6": [
+        40.98721117672881,
+        70.18830072968677
+      ],
+      "L7": [
+        1.9478010279035396,
+        82.67219822242595
+      ],
+      "L8": [
+        95.4687486021786,
+        56.45750445704715
+      ],
+      "L9": [
+        86.62615759366533,
+        18.999078819955294
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4030, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 37.14,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L3",
+        "distance": 37.2,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L5",
+        "distance": 43.79,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 95.03,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 30.23,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 28.97,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L3",
+        "distance": 6.57,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 16.02,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L6",
+        "distance": 32.36,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 24.53,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 25.37,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L7",
+        "distance": 70.6,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L8",
+        "distance": 30.04,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 45.1,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 35.48,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L6",
+        "distance": 23.48,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L9",
+        "distance": 91.56,
+        "blocked": true
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 16.35,
+        "blocked": true
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 40.99,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L8",
+        "distance": 56.19,
+        "blocked": true
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 97.13,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L9",
+        "distance": 105.95,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 38.49,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        90.78825030181964,
+        48.941324511235116
+      ],
+      "L1": [
+        71.58013795199871,
+        80.73219128841687
+      ],
+      "L2": [
+        65.71353517791391,
+        52.363158815383514
+      ],
+      "L3": [
+        66.24700436681574,
+        76.89128140587293
+      ],
+      "L4": [
+        21.63488734537561,
+        83.49156771267455
+      ],
+      "L5": [
+        56.298295440883095,
+        75.9219162195582
+      ],
+      "L6": [
+        40.98721117672881,
+        70.18830072968677
+      ],
+      "L7": [
+        1.9478010279035396,
+        82.67219822242595
+      ],
+      "L8": [
+        95.4687486021786,
+        56.45750445704715
+      ],
+      "L9": [
+        86.62615759366533,
+        18.999078819955294
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4031, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 43.6,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 3.9,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 11.1,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 13.07,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L9",
+        "distance": 44.5,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 57.56,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L7",
+        "distance": 71.11,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 37.0,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L5",
+        "distance": 78.91,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L8",
+        "distance": 101.52,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 46.94,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L6",
+        "distance": 21.36,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L9",
+        "distance": 49.66,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 35.75,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L7",
+        "distance": 95.09,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L9",
+        "distance": 28.81,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 66.0,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 110.34,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 63.64,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        87.74298764847384,
+        89.40417726352004
+      ],
+      "L1": [
+        59.32987325573589,
+        56.33895595715761
+      ],
+      "L2": [
+        59.289545963780654,
+        67.43408826998322
+      ],
+      "L3": [
+        97.26320018736033,
+        24.174273500857158
+      ],
+      "L4": [
+        67.4750488669792,
+        46.1182951508166
+      ],
+      "L5": [
+        56.524538484088005,
+        91.75809729557278
+      ],
+      "L6": [
+        48.98347294563402,
+        56.81417757700468
+      ],
+      "L7": [
+        83.54173914133519,
+        0.5832406153686631
+      ],
+      "L8": [
+        21.682824111148246,
+        91.95325804557419
+      ],
+      "L9": [
+        85.32174739446964,
+        92.457912115279
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4031, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 43.6,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 3.9,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 11.1,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 13.07,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L9",
+        "distance": 44.5,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 57.56,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L7",
+        "distance": 71.11,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 37.0,
+        "blocked": true
+      },
+      {
+        "u": "L3",
+        "v": "L5",
+        "distance": 78.91,
+        "blocked": true
+      },
+      {
+        "u": "L3",
+        "v": "L8",
+        "distance": 101.52,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 46.94,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L6",
+        "distance": 21.36,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L9",
+        "distance": 49.66,
+        "blocked": true
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 35.75,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L7",
+        "distance": 95.09,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L9",
+        "distance": 28.81,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 66.0,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 110.34,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 63.64,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        87.74298764847384,
+        89.40417726352004
+      ],
+      "L1": [
+        59.32987325573589,
+        56.33895595715761
+      ],
+      "L2": [
+        59.289545963780654,
+        67.43408826998322
+      ],
+      "L3": [
+        97.26320018736033,
+        24.174273500857158
+      ],
+      "L4": [
+        67.4750488669792,
+        46.1182951508166
+      ],
+      "L5": [
+        56.524538484088005,
+        91.75809729557278
+      ],
+      "L6": [
+        48.98347294563402,
+        56.81417757700468
+      ],
+      "L7": [
+        83.54173914133519,
+        0.5832406153686631
+      ],
+      "L8": [
+        21.682824111148246,
+        91.95325804557419
+      ],
+      "L9": [
+        85.32174739446964,
+        92.457912115279
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4031, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 43.6,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 3.9,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 11.1,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 13.07,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L9",
+        "distance": 44.5,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 57.56,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L7",
+        "distance": 71.11,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 37.0,
+        "blocked": true
+      },
+      {
+        "u": "L3",
+        "v": "L5",
+        "distance": 78.91,
+        "blocked": true
+      },
+      {
+        "u": "L3",
+        "v": "L8",
+        "distance": 101.52,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 46.94,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L6",
+        "distance": 21.36,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L9",
+        "distance": 49.66,
+        "blocked": true
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 35.75,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L7",
+        "distance": 95.09,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L9",
+        "distance": 28.81,
+        "blocked": true
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 66.0,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 110.34,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 63.64,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        87.74298764847384,
+        89.40417726352004
+      ],
+      "L1": [
+        59.32987325573589,
+        56.33895595715761
+      ],
+      "L2": [
+        59.289545963780654,
+        67.43408826998322
+      ],
+      "L3": [
+        97.26320018736033,
+        24.174273500857158
+      ],
+      "L4": [
+        67.4750488669792,
+        46.1182951508166
+      ],
+      "L5": [
+        56.524538484088005,
+        91.75809729557278
+      ],
+      "L6": [
+        48.98347294563402,
+        56.81417757700468
+      ],
+      "L7": [
+        83.54173914133519,
+        0.5832406153686631
+      ],
+      "L8": [
+        21.682824111148246,
+        91.95325804557419
+      ],
+      "L9": [
+        85.32174739446964,
+        92.457912115279
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4032, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 40.26,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 64.82,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 94.37,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 43.6,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 53.5,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 18.86,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 36.03,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L6",
+        "distance": 30.56,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 27.86,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 16.48,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L8",
+        "distance": 77.08,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 10.74,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L8",
+        "distance": 62.24,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 69.39,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 50.27,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        97.1729612300721,
+        62.221990913070925
+      ],
+      "L1": [
+        64.46359987139205,
+        85.69940359507451
+      ],
+      "L2": [
+        22.1394694337144,
+        75.24930772281806
+      ],
+      "L3": [
+        4.8496918352724965,
+        67.71571284257666
+      ],
+      "L4": [
+        36.47721377994784,
+        84.96439539045491
+      ],
+      "L5": [
+        12.8346002788711,
+        99.7103644889361
+      ],
+      "L6": [
+        25.994730280250998,
+        89.78484113393907
+      ],
+      "L7": [
+        15.57613251105584,
+        92.39684192900125
+      ],
+      "L8": [
+        51.35336088349792,
+        32.9420640284777
+      ],
+      "L9": [
+        3.726751537624018,
+        49.03757710568709
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4032, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 40.26,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 64.82,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 94.37,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 43.6,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 53.5,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 18.86,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 36.03,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L6",
+        "distance": 30.56,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 27.86,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 16.48,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L8",
+        "distance": 77.08,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 10.74,
+        "blocked": true
+      },
+      {
+        "u": "L6",
+        "v": "L8",
+        "distance": 62.24,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 69.39,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 50.27,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        97.1729612300721,
+        62.221990913070925
+      ],
+      "L1": [
+        64.46359987139205,
+        85.69940359507451
+      ],
+      "L2": [
+        22.1394694337144,
+        75.24930772281806
+      ],
+      "L3": [
+        4.8496918352724965,
+        67.71571284257666
+      ],
+      "L4": [
+        36.47721377994784,
+        84.96439539045491
+      ],
+      "L5": [
+        12.8346002788711,
+        99.7103644889361
+      ],
+      "L6": [
+        25.994730280250998,
+        89.78484113393907
+      ],
+      "L7": [
+        15.57613251105584,
+        92.39684192900125
+      ],
+      "L8": [
+        51.35336088349792,
+        32.9420640284777
+      ],
+      "L9": [
+        3.726751537624018,
+        49.03757710568709
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4032, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 40.26,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 64.82,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 94.37,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 43.6,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 53.5,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 18.86,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 36.03,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L6",
+        "distance": 30.56,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 27.86,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 16.48,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L8",
+        "distance": 77.08,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 10.74,
+        "blocked": true
+      },
+      {
+        "u": "L6",
+        "v": "L8",
+        "distance": 62.24,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 69.39,
+        "blocked": true
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 50.27,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        97.1729612300721,
+        62.221990913070925
+      ],
+      "L1": [
+        64.46359987139205,
+        85.69940359507451
+      ],
+      "L2": [
+        22.1394694337144,
+        75.24930772281806
+      ],
+      "L3": [
+        4.8496918352724965,
+        67.71571284257666
+      ],
+      "L4": [
+        36.47721377994784,
+        84.96439539045491
+      ],
+      "L5": [
+        12.8346002788711,
+        99.7103644889361
+      ],
+      "L6": [
+        25.994730280250998,
+        89.78484113393907
+      ],
+      "L7": [
+        15.57613251105584,
+        92.39684192900125
+      ],
+      "L8": [
+        51.35336088349792,
+        32.9420640284777
+      ],
+      "L9": [
+        3.726751537624018,
+        49.03757710568709
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4033, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 24.77,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L2",
+        "distance": 39.92,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L3",
+        "distance": 73.05,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 24.84,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 31.33,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 51.39,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 60.56,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 25.24,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 13.84,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L7",
+        "distance": 17.65,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L9",
+        "distance": 57.77,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 68.61,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 63.94,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 50.51,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 78.63,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L7",
+        "distance": 104.11,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L9",
+        "distance": 67.52,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 35.01,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L9",
+        "distance": 32.6,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 23.91,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L9",
+        "distance": 67.16,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 31.5,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L8",
+        "distance": 35.21,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L9",
+        "distance": 43.31,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 66.5,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 8.73,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        61.86017604632813,
+        34.387841815917454
+      ],
+      "L1": [
+        63.52297730686186,
+        9.675000551516888
+      ],
+      "L2": [
+        86.72520996149184,
+        65.61751068115547
+      ],
+      "L3": [
+        26.362327053725622,
+        98.2358301929863
+      ],
+      "L4": [
+        40.957995308252535,
+        20.97279098783533
+      ],
+      "L5": [
+        75.6594643966961,
+        16.333132683877693
+      ],
+      "L6": [
+        52.844812403781475,
+        23.498556909246226
+      ],
+      "L7": [
+        81.17555176753297,
+        9.721533559236295
+      ],
+      "L8": [
+        19.154195644824124,
+        33.7246616514042
+      ],
+      "L9": [
+        10.501036080266434,
+        32.601853438159765
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4033, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 24.77,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L2",
+        "distance": 39.92,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L3",
+        "distance": 73.05,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 24.84,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 31.33,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 51.39,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 60.56,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 25.24,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 13.84,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L7",
+        "distance": 17.65,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L9",
+        "distance": 57.77,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 68.61,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 63.94,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 50.51,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 78.63,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L7",
+        "distance": 104.11,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L9",
+        "distance": 67.52,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 35.01,
+        "blocked": true
+      },
+      {
+        "u": "L4",
+        "v": "L9",
+        "distance": 32.6,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 23.91,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L9",
+        "distance": 67.16,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 31.5,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L8",
+        "distance": 35.21,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L9",
+        "distance": 43.31,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 66.5,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 8.73,
+        "blocked": true
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        61.86017604632813,
+        34.387841815917454
+      ],
+      "L1": [
+        63.52297730686186,
+        9.675000551516888
+      ],
+      "L2": [
+        86.72520996149184,
+        65.61751068115547
+      ],
+      "L3": [
+        26.362327053725622,
+        98.2358301929863
+      ],
+      "L4": [
+        40.957995308252535,
+        20.97279098783533
+      ],
+      "L5": [
+        75.6594643966961,
+        16.333132683877693
+      ],
+      "L6": [
+        52.844812403781475,
+        23.498556909246226
+      ],
+      "L7": [
+        81.17555176753297,
+        9.721533559236295
+      ],
+      "L8": [
+        19.154195644824124,
+        33.7246616514042
+      ],
+      "L9": [
+        10.501036080266434,
+        32.601853438159765
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4033, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 24.77,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L2",
+        "distance": 39.92,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L3",
+        "distance": 73.05,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L4",
+        "distance": 24.84,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L7",
+        "distance": 31.33,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 51.39,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 60.56,
+        "blocked": true
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 25.24,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L5",
+        "distance": 13.84,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L7",
+        "distance": 17.65,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L9",
+        "distance": 57.77,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 68.61,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 63.94,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 50.51,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 78.63,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L7",
+        "distance": 104.11,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L9",
+        "distance": 67.52,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 35.01,
+        "blocked": true
+      },
+      {
+        "u": "L4",
+        "v": "L9",
+        "distance": 32.6,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 23.91,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L9",
+        "distance": 67.16,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 31.5,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L8",
+        "distance": 35.21,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L9",
+        "distance": 43.31,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 66.5,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 8.73,
+        "blocked": true
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        61.86017604632813,
+        34.387841815917454
+      ],
+      "L1": [
+        63.52297730686186,
+        9.675000551516888
+      ],
+      "L2": [
+        86.72520996149184,
+        65.61751068115547
+      ],
+      "L3": [
+        26.362327053725622,
+        98.2358301929863
+      ],
+      "L4": [
+        40.957995308252535,
+        20.97279098783533
+      ],
+      "L5": [
+        75.6594643966961,
+        16.333132683877693
+      ],
+      "L6": [
+        52.844812403781475,
+        23.498556909246226
+      ],
+      "L7": [
+        81.17555176753297,
+        9.721533559236295
+      ],
+      "L8": [
+        19.154195644824124,
+        33.7246616514042
+      ],
+      "L9": [
+        10.501036080266434,
+        32.601853438159765
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4034, blockage=0%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 6.61,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L2",
+        "distance": 53.52,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L3",
+        "distance": 105.17,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 78.79,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 53.81,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 71.45,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 71.88,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 76.77,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 39.15,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 70.72,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L7",
+        "distance": 51.39,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L8",
+        "distance": 54.41,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 53.52,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L9",
+        "distance": 13.86,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 19.98,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L7",
+        "distance": 61.2,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 80.64,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 78.84,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 14.02,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        84.43805823245238,
+        4.248138598410344
+      ],
+      "L1": [
+        91.01252098293634,
+        3.6050138339429827
+      ],
+      "L2": [
+        90.61679099392327,
+        57.41484889069223
+      ],
+      "L3": [
+        28.23721069667292,
+        93.13710110028435
+      ],
+      "L4": [
+        22.15353469544292,
+        22.68316369209533
+      ],
+      "L5": [
+        75.65481144687733,
+        21.240740788632316
+      ],
+      "L6": [
+        69.47250354864212,
+        2.237230209522667
+      ],
+      "L7": [
+        78.48772670625803,
+        82.37291659236476
+      ],
+      "L8": [
+        11.068326157071295,
+        41.50254902994999
+      ],
+      "L9": [
+        9.196361310171419,
+        27.61290800527929
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4034, blockage=15%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 6.61,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L2",
+        "distance": 53.52,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L3",
+        "distance": 105.17,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 78.79,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 53.81,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 71.45,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 71.88,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 76.77,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 39.15,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 70.72,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L7",
+        "distance": 51.39,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L8",
+        "distance": 54.41,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 53.52,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L9",
+        "distance": 13.86,
+        "blocked": true
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 19.98,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L7",
+        "distance": 61.2,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 80.64,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 78.84,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 14.02,
+        "blocked": false
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        84.43805823245238,
+        4.248138598410344
+      ],
+      "L1": [
+        91.01252098293634,
+        3.6050138339429827
+      ],
+      "L2": [
+        90.61679099392327,
+        57.41484889069223
+      ],
+      "L3": [
+        28.23721069667292,
+        93.13710110028435
+      ],
+      "L4": [
+        22.15353469544292,
+        22.68316369209533
+      ],
+      "L5": [
+        75.65481144687733,
+        21.240740788632316
+      ],
+      "L6": [
+        69.47250354864212,
+        2.237230209522667
+      ],
+      "L7": [
+        78.48772670625803,
+        82.37291659236476
+      ],
+      "L8": [
+        11.068326157071295,
+        41.50254902994999
+      ],
+      "L9": [
+        9.196361310171419,
+        27.61290800527929
+      ]
+    }
+  },
+  {
+    "name": "Synthetic n=9, seed=4034, blockage=30%",
+    "nodes": [
+      "Depot",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "depot": "Depot",
+    "deliveries": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6",
+      "L7",
+      "L8",
+      "L9"
+    ],
+    "roads": [
+      {
+        "u": "Depot",
+        "v": "L1",
+        "distance": 6.61,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L2",
+        "distance": 53.52,
+        "blocked": false
+      },
+      {
+        "u": "Depot",
+        "v": "L3",
+        "distance": 105.17,
+        "blocked": true
+      },
+      {
+        "u": "Depot",
+        "v": "L9",
+        "distance": 78.79,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L2",
+        "distance": 53.81,
+        "blocked": false
+      },
+      {
+        "u": "L1",
+        "v": "L4",
+        "distance": 71.45,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L3",
+        "distance": 71.88,
+        "blocked": false
+      },
+      {
+        "u": "L2",
+        "v": "L4",
+        "distance": 76.77,
+        "blocked": true
+      },
+      {
+        "u": "L2",
+        "v": "L5",
+        "distance": 39.15,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L4",
+        "distance": 70.72,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L7",
+        "distance": 51.39,
+        "blocked": false
+      },
+      {
+        "u": "L3",
+        "v": "L8",
+        "distance": 54.41,
+        "blocked": true
+      },
+      {
+        "u": "L4",
+        "v": "L5",
+        "distance": 53.52,
+        "blocked": false
+      },
+      {
+        "u": "L4",
+        "v": "L9",
+        "distance": 13.86,
+        "blocked": true
+      },
+      {
+        "u": "L5",
+        "v": "L6",
+        "distance": 19.98,
+        "blocked": false
+      },
+      {
+        "u": "L5",
+        "v": "L7",
+        "distance": 61.2,
+        "blocked": false
+      },
+      {
+        "u": "L6",
+        "v": "L7",
+        "distance": 80.64,
+        "blocked": false
+      },
+      {
+        "u": "L7",
+        "v": "L8",
+        "distance": 78.84,
+        "blocked": false
+      },
+      {
+        "u": "L8",
+        "v": "L9",
+        "distance": 14.02,
+        "blocked": true
+      }
+    ],
+    "coordinates": {
+      "Depot": [
+        84.43805823245238,
+        4.248138598410344
+      ],
+      "L1": [
+        91.01252098293634,
+        3.6050138339429827
+      ],
+      "L2": [
+        90.61679099392327,
+        57.41484889069223
+      ],
+      "L3": [
+        28.23721069667292,
+        93.13710110028435
+      ],
+      "L4": [
+        22.15353469544292,
+        22.68316369209533
+      ],
+      "L5": [
+        75.65481144687733,
+        21.240740788632316
+      ],
+      "L6": [
+        69.47250354864212,
+        2.237230209522667
+      ],
+      "L7": [
+        78.48772670625803,
+        82.37291659236476
+      ],
+      "L8": [
+        11.068326157071295,
+        41.50254902994999
+      ],
+      "L9": [
+        9.196361310171419,
+        27.61290800527929
+      ]
+    }
+  }
+]

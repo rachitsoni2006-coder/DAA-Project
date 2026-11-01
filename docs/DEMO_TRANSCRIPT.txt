@@ -1,0 +1,49 @@
+
+RELIEF ROUTE - EMERGENCY SUPPLY DELIVERY PLANNER
+Synthetic simulation | one vehicle | VS Code terminal
+
+1 Show network       2 Block/reopen road     3 Compare algorithms
+4 Load sample        5 Generate network      6 Save scenario
+7 Load JSON scenario 8 Export network SVG    9 Run research experiment
+0 Exit
+Choose: JSON path (Enter for data/saved_scenario.json): Scenario loaded.
+
+1 Show network       2 Block/reopen road     3 Compare algorithms
+4 Load sample        5 Generate network      6 Save scenario
+7 Load JSON scenario 8 Export network SVG    9 Run research experiment
+0 Exit
+Choose: 
+Shortest-path preprocessing: 0.066 ms
+Algorithm               Distance km     Time ms     Gap %  Status
+Nearest neighbour            519.56       0.007     15.08  Heuristic
+  Planned stop order: Depot -> L7 -> L3 -> L1 -> L2 -> L5 -> L4 -> L6 -> Depot
+  Actual road walk:   Depot -> L7 -> L3 -> L7 -> L1 -> L2 -> L1 -> L7 -> L5 -> L4 -> L5 -> L6 -> L5 -> L7 -> Depot
+NN + 2-opt                   451.48       0.017      0.00  Heuristic
+  Planned stop order: Depot -> L1 -> L2 -> L7 -> L3 -> L4 -> L5 -> L6 -> Depot
+  Actual road walk:   Depot -> L1 -> L2 -> L1 -> L7 -> L3 -> L4 -> L5 -> L6 -> L5 -> L7 -> Depot
+Branch and bound             451.48       1.467      0.00  Optimal (tolerance 1e-9)
+  Planned stop order: Depot -> L1 -> L2 -> L7 -> L3 -> L4 -> L5 -> L6 -> Depot
+  Actual road walk:   Depot -> L1 -> L2 -> L1 -> L7 -> L3 -> L4 -> L5 -> L6 -> L5 -> L7 -> Depot
+  Nodes visited: 296; branches pruned: 720; lower bound: 451.48 km
+Intermediate nodes may repeat; passing a delivery node may serve it early. Routes return to the depot.
+B&B limit: 2 seconds. Gaps use a proven optimum only. Times exclude shortest-path preprocessing.
+
+1 Show network       2 Block/reopen road     3 Compare algorithms
+4 Load sample        5 Generate network      6 Save scenario
+7 Load JSON scenario 8 Export network SVG    9 Run research experiment
+0 Exit
+Choose: JSON path (Enter for data/saved_scenario.json): Scenario loaded.
+
+1 Show network       2 Block/reopen road     3 Compare algorithms
+4 Load sample        5 Generate network      6 Save scenario
+7 Load JSON scenario 8 Export network SVG    9 Run research experiment
+0 Exit
+Choose: 
+NO COMPLETE DELIVERY ROUTE. Unreachable: Hospital
+No route is fabricated; reopen roads or change the scenario.
+
+1 Show network       2 Block/reopen road     3 Compare algorithms
+4 Load sample        5 Generate network      6 Save scenario
+7 Load JSON scenario 8 Export network SVG    9 Run research experiment
+0 Exit
+Choose: 
